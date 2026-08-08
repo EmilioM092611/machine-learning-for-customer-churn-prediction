@@ -217,16 +217,17 @@ The following visuals summarize the exploratory analysis, model comparison, and 
 
 ### Exploratory Data Analysis
 
-![Churn Distribution](images/Churn%20Distribution.png)
+<img src="images/Churn Distribution.png" width="800">
 
 ### Model Comparison
 
-![Model Comparison](images/Model%20Comparison%20-%20Accuracy.png)
+<img src="images/Model Comparison - Accuracy.png" width="800">
 
 ### Feature Importance
 
-![Feature Importance](images/Top%20Features%20by%20Permutation%20Importance.png)
-![Feature Importance](images/Top%20Logistic%20Regression%20Coefficients.png)
+<img src="images/Top Features by Permutation Importance.png" width="800">
+
+<img src="images/Top Logistic Regression Coefficients.png" width="800">
 
 ---
 
