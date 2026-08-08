@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Customer Churn Prediction
 
 ## Project Overview
@@ -71,9 +76,15 @@ machine-learning-for-customer-churn-prediction/
 │
 ├── data/
 │   ├── raw/
+│   │   ├──WA_Fn-UseC_-Telco-Customer-Churn.csv
 │   └── processed/
+│       ├──customer_churn_clean.csv
 │
 ├── images/
+│   ├──Boxplots/
+│   ├──Categorical Plots/
+│   ├──Histograms/
+│   ├──Matrices/
 │
 ├── models/
 │
@@ -228,6 +239,10 @@ The following visuals summarize the exploratory analysis, model comparison, and 
 <img src="images/Top Features by Permutation Importance.png" width="800">
 
 <img src="images/Top Logistic Regression Coefficients.png" width="800">
+
+### Confusion Matrix
+
+<img src="images/confusion_matrix.png" width="500">
 
 ---
 
