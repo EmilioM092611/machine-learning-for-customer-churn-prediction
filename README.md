@@ -211,6 +211,25 @@ The ROC-AUC score indicates that the model has a good ability to distinguish bet
 
 ---
 
+## Visualizations
+
+The following visuals summarize the exploratory analysis, model comparison, and feature interpretation results discussed throughout this project.
+
+### Exploratory Data Analysis
+
+![Churn Distribution](images/Churn%20Distribution.png)
+
+### Model Comparison
+
+![Model Comparison](images/Model%20Comparison%20-%20Accuracy.png)
+
+### Feature Importance
+
+![Feature Importance](images/Top%20Features%20by%20Permutation%20Importance.png)
+![Feature Importance](images/Top%20Logistic%20Regression%20Coefficients.png)
+
+---
+
 ## Key Findings
 
 The analysis identified several customer characteristics associated with churn.
