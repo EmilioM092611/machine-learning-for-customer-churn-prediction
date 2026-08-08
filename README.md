@@ -242,7 +242,7 @@ The following visuals summarize the exploratory analysis, model comparison, and 
 
 ### Confusion Matrix
 
-<img src="images/confusion_matrix.png" width="500">
+<img src="images/Confusion Matrix - Logistic Regression.png" width="500">
 
 ---
 
