@@ -76,17 +76,18 @@ machine-learning-for-customer-churn-prediction/
 │
 ├── data/
 │   ├── raw/
-│   │   ├──WA_Fn-UseC_-Telco-Customer-Churn.csv
+│   │   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │   └── processed/
-│       ├──customer_churn_clean.csv
+│       ├── customer_churn_clean.csv
 │
 ├── images/
-│   ├──Boxplots/
-│   ├──Categorical Plots/
-│   ├──Histograms/
-│   ├──Matrices/
+│   ├── Boxplots/
+│   ├── Categorical Plots/
+│   ├── Histograms/
+│   ├── Matrices/
 │
 ├── models/
+│   ├── churn_logistic_regression
 │
 ├── notebooks/
 │   ├── 01_business_understanding.ipynb
